@@ -1,0 +1,9 @@
+School Management System in Java
+
+
+username-s		password-a
+
+admin pass-123
+
+			
+
